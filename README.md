@@ -1,2 +1,2 @@
 # RealtorWebsiteProject
-Website for a RealEstate agent
+Website for a Real Estate agent
