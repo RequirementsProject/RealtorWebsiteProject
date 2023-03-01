@@ -1,4 +1,5 @@
 # Introduction
+The real estate agent organization is pursuing the development of a new business strategy by implementing a real estate agent website to meet the changing management environment. This is due to several reasons, such as an increased demand for online real estate services, the need to expand the client base, and the need to remain competitive in the industry.
 ## Business purpose
 ## Business scope
 ## Overview
