@@ -51,5 +51,5 @@ A project constraint is that there is only one developer working on the project.
 # 8. Appendix
 
 ## 8.1 Acronyms and abbreviations
-ADA -  Americans with Disabilities Act :-
+ADA -  Americans with Disabilities Act:-
 Business operator - Customer of system(Real Estate Agent)
