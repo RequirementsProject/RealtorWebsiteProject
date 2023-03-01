@@ -23,12 +23,12 @@ https://sebokwiki.org/wiki/Business_or_Mission_Analysis<br>
 29148-2018 9.3 Business requirements specification (BRS) content
 # Business management requirements
 ## Business environment
-External Environmental Factors:<br><br>
+#### External Environmental Factors:<br><br>
 
 Market Trends: Market trends such as changes in demand for certain types of properties or changes in customer preferences can impact the business and the system.<br>
 Laws and Regulations: Laws and regulations related to the real estate industry can impact the business and the system.<br>
 Economic Factors: Economic factors such as interest rates and inflation can impact the real estate industry and the system.<br><br>
-Internal Environmental Factors:<br><br>
+#### Internal Environmental Factors:<br><br>
 Organizational Culture: The organizational culture can impact the development and operation of the system. <br>
 Business Processes: The existing business processes can impact the development and operation of the system.
 
@@ -44,11 +44,47 @@ c) Database Configuration: The organization should have an organization-level da
 
 # Business operational requirements
 ## Business processes
+The real estate agent website system will support the following business activities:<br><br>
+
+#### Lead Generation Process:
+This process involves the identification of potential customers, gathering their contact information and initiating contact with them to establish interest in buying or selling a property.<br>
+
+#### Property Listing Process:
+This process involves the creation and management of property listings. The system will provide a user-friendly interface for agents to create and publish property listings. 
+
+#### Property Search Process:
+This process involves enabling potential buyers to search for properties that match their criteria. The system will provide a search form where potential buyers can enter details such as location, property type, price range and other search criteria to generate a list of properties that match their requirements.
+
+#### Property Sales Process:
+This process involves managing the sales process from offer to closing. The system will enable agents to track and manage offers, negotiations, contracts and closing processes. 
+
+#### Marketing Process:
+This process involves promoting the agent and their services to potential clients. The system will provide tools such as email marketing, social media integration, and search engine optimization to help agents market themselves effectively. 
+
+#### Reporting Process:
+This process involves tracking and reporting on key performance indicators for the business. The system will provide analytics on website traffic, lead generation, property views, and other metrics to help agents measure the success of their efforts. <br><br>
+
+The system interfaces within the business processes will include web forms for lead generation, search forms for property search, property listing creation and management interfaces, contact management interfaces, offer and contract management interfaces, marketing campaign management interfaces, and analytics and reporting interfaces.
+
+
 ## Business operational policies and rules
+Logical propositions might be used to determine which properties to display to a user based on their search criteria, to calculate the commission owed to an agent based on the sale price of a property, or to determine whether a property meets certain legal or regulatory requirements.
 ## Business operational constraints
+1. Customer inquiries must be responded to within a day <br>
+2. All necessary information must be accurate and included in the property listings
+3. All housing laws and regulation must be followed at all times
+4. All interactions with customers must be monitored and recorded 
 ## Business operational modes
+In order to conduct business operations in an unsteady state, the organization may adopt methods that include, business continuity planning that involves creating a plan to outline procedures,and cross-training empployees to handle multiple roles and responsibilities. Other methods include contingency staffing, and manual operations in case the system is not available.  
 ## Business operational quality
+The level of quality required for a real estate agent website would be high, as the website serves as a critical point of contact between the business and its customers. The website must be reliable, secure, and user-friendly to attract and retain customers, and to help the business achieve its overall goals and objectives.
 ## Business structure
+In the context of a real estate agent website, the structures in the business relevant to the system can include the following:<br>
+
+Organizational structure: This refers to the overall structure of the real estate agent's organization, including its divisions, departments, and the roles and responsibilities of its employees.<br>
+Geographic structure: The real estate agent's business may be spread across different geographic regions or markets.<br>
+Resource sharing structures: The website should support resource sharing within the organization, allowing employees to share information and collaborate on projects. <br>
+Role and responsibility structures: The website should support the role and responsibility structures of the organization.
 
 # 5. Preliminary operational concept of proposed system
 
