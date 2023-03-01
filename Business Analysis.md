@@ -10,8 +10,13 @@ The industry is divided into Sales, Marketing, Property Management, and Administ
 ## Definitions 
 ## Major stakeholders 
 The major stakeholders of the real estate agent website and the broader real estate industry include:<br><br>
-Clients: Clients are a crucial stakeholder in the real estate industry as they are the ones buying, selling, or renting properties.
-
+Clients: Clients are a crucial stakeholder in the real estate industry as they are the ones buying, selling, or renting properties.<br>
+Real Estate Agents: Real estate agents are responsible for showcasing properties, negotiating deals, and managing transactions.<br>
+Brokers: Brokers act as intermediaries between buyers and sellers and are responsible for overseeing the work of real estate agents.<br>
+Appraisers: Appraisers provide valuation services and determine the market value of properties.<br>
+Lawyers: Lawyers provide legal guidance and support for real estate transactions. <br>
+Financial Institutions: Financial institutions provide financing options for property transactions. <br>
+Government: The government regulates the real estate industry through laws and regulations. 
 # References
 # Business management requirements
 ## Business environment
