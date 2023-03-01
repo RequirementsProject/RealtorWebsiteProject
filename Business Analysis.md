@@ -2,9 +2,16 @@
 ## Business purpose
 The real estate agent organization is pursuing the development of a new business strategy by implementing a real estate agent website to meet the changing management environment. This is due to several reasons, such as an increased demand for online real estate services, the need to expand the client base, and the need to remain competitive in the industry.
 ## Business scope
+a) The business domain under consideration is the real estate industry.<br>
+b) The real estate industry includes a range of business activities related to the buying, selling, renting, and managing of properties. These activities can be divided into various divisions within the organization, such as sales, marketing, property management, and administration. External entities that relate directly to the business activities include clients, real estate agents, brokers, appraisers, lawyers, and financial institutions.<br>
+c) The scope of the system being developed is a real estate agent website. The system will support the business activities of the sales and marketing divisions within the organization, specifically in showcasing available properties, scheduling viewings, and communicating with potential clients.
 ## Overview
+The industry is divided into Sales, Marketing, Property Management, and Administration divisions. These divisions work together to manage properties and provide services to clients. External entities such as clients, real estate agents, brokers, appraisers, lawyers, and financial institutions are all interconnected with the industry. Clients work with real estate agents to buy or sell properties, brokers help connect buyers and sellers, appraisers provide valuation services, lawyers handle legal aspects of property transactions, and financial institutions provide financing options. 
 ## Definitions 
 ## Major stakeholders 
+The major stakeholders of the real estate agent website and the broader real estate industry include:<br><br>
+Clients: Clients are a crucial stakeholder in the real estate industry as they are the ones buying, selling, or renting properties.
+
 # References
 # Business management requirements
 ## Business environment
