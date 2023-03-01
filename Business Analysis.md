@@ -18,11 +18,30 @@ Lawyers: Lawyers provide legal guidance and support for real estate transactions
 Financial Institutions: Financial institutions provide financing options for property transactions. <br>
 Government: The government regulates the real estate industry through laws and regulations. 
 # References
+https://sebokwiki.org/wiki/Business_or_Mission_Analysis<br>
+29148-2018 6.2 Business or mission analysis process
+29148-2018 9.3 Business requirements specification (BRS) content
 # Business management requirements
 ## Business environment
+External Environmental Factors:<br><br>
+
+Market Trends: Market trends such as changes in demand for certain types of properties or changes in customer preferences can impact the business and the system.<br>
+Laws and Regulations: Laws and regulations related to the real estate industry can impact the business and the system.<br>
+Economic Factors: Economic factors such as interest rates and inflation can impact the real estate industry and the system.<br><br>
+Internal Environmental Factors:<br><br>
+Organizational Culture: The organizational culture can impact the development and operation of the system. <br>
+Business Processes: The existing business processes can impact the development and operation of the system.
+
 ## Mission, goals, and objectives
+The proposed real estate agent website will provide the organization with several key business results, including increased sales, improved customer engagement, competitive advantage, improved efficiency, and increased revenue. These results will help the organization to achieve its business objectives and remain competitive in the real estate industry.
 ## Business model
+The real estate agent website is expected to contribute to the achievement of the organization's business mission by providing a platform for the organization to expand its reach, improve the customer experience, and generate additional revenue streams. The website will enable the organization to achieve its business objectives by providing new methods for distributing its product and services, forming strategic partnerships, and generating additional revenue.
 ## Information environment
+a) Project Portfolio: The organization should adopt a project portfolio management strategy to manage multiple system projects that are running or planned to pursue the same business goal. This strategy should involve prioritizing projects based on their importance and their potential to contribute to the organization's overall business objectives.<br>
+b) Long-term System Plan: The organization should have a long-term system plan that outlines the common system infrastructure or architecture that has been decided or planned. This plan should provide constraints on the possible design decisions of any new system projects.<br>
+c) Database Configuration: The organization should have an organization-level database configuration plan that specifies how data is stored and managed across multiple systems. This plan should provide constraints on the availability and accessibility of organization-wide data. The database configuration plan should also outline the security and privacy measures that must be in place to protect sensitive data.
+
+
 # Business operational requirements
 ## Business processes
 ## Business operational policies and rules
