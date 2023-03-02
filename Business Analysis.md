@@ -18,9 +18,9 @@ Lawyers: Lawyers provide legal guidance and support for real estate transactions
 Financial Institutions: Financial institutions provide financing options for property transactions. <br>
 Government: The government regulates the real estate industry through laws and regulations. 
 # References
-https://sebokwiki.org/wiki/Business_or_Mission_Analysis<br>
-29148-2018 6.2 Business or mission analysis process
-29148-2018 9.3 Business requirements specification (BRS) content
+“Business or Mission Analysis.” Guide to the System Enginnering Body of Knowledge,     https://sebokwiki.org/wiki/Business_or_Mission_Analysis.<br><br> 
+29148-2018 - ISO/IEC/IEEE International Standard - Systems and Software Engineering -- Life Cycle Processes -- Requirements Engineering - Redline. IEEE.<br><br>
+Bourque, Pierre, and R. E. Fairley. SWEBOK: Guide to the Software Engineering Body of Knowledge. IEEE Computer Society, 2014. 
 # Business management requirements
 ## Business environment
 #### External Environmental Factors:<br><br>
